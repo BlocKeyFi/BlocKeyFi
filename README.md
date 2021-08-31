@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlocKeyFi
-- 👀 I’m make ideas into reality
+- 👀 I make ideas into reality
 - 🌱 I’m more focused at Blockchain development. 
-- 💞️ I’m looking to collaborate with best devs and solution masters
+- 💞️ I’m looking to collaborate with best devs and solution experts.
 - 📫 Visit: www.blockeyfi.com
 
 <!---
